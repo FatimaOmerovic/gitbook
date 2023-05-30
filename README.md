@@ -6,9 +6,9 @@ description: This is my Gitbook for all my of tech
 
 ## Contact Me
 
-Linkedin: [Profile](https://www.linkedin.com/in/fatima-omerovic/)\
 Email: timaomerovi@gmail.com\
-GitHub\
+[Linkedin](https://www.linkedin.com/in/fatima-omerovic/)\
+[GitHub](https://github.com/FatimaOmerovic)\
 Gitbook
 
 
