@@ -1,5 +1,5 @@
 ---
-description: This is my Gitbook for all my of tech
+
 ---
 
 # Welcome
