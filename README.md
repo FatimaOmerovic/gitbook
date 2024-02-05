@@ -14,5 +14,4 @@ Gitbook
 ## Who am I?
 
 \
-I'm a Champlain College student studying to be a cybersecurity professional. My experience extends beyond installing and configuring an elastic stack, optimizing this stack to identify irregularities in network activity, and ensuring the security of an internal network.&#x20;
-
+I am a dedicated student pursuing a B.S. in Cybersecurity with a minor in Digital Forensics at Champlain College, with an expected graduation in 2025. Throughout my journey of surfing the web, I've encountered various security challenges that have not only fueled my curiosity but also taught me the importance of learning from mistakes to prevent them from recurrence.
