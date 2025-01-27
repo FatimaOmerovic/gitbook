@@ -6,7 +6,7 @@ description: A compilation of my tech journal
 
 ## Contact Me
 
-Email: timaomerovi@gmail.com\
+Email: fatimaomerovi@outlook.com\
 [Linkedin](https://www.linkedin.com/in/fatima-omerovic/)\
 [GitHub](https://github.com/FatimaOmerovic)\
 Gitbook
